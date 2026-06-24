@@ -1,0 +1,5 @@
+1 Arduino Mega
+1 RFID-Sensor
+1 Ultrasonic sensor
+1 Servo
+14 Cables
